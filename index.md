@@ -1,8 +1,16 @@
 
 ## Overview
 This course introduces the design of intelligent agents, including the fundamental problem-solving and knowledge-representation paradigms of artificial intelligence. Topics to be covered include the AI programming language LISP, state-space and problem reduction methods, brute-force and heuristic search, two-player games, and recent developments in game AI. For knowledge representation and reasoning, we will cover propositional and first-order logic and their inference algorithms. Finally, the course covers probabilistic approaches to AI, such as Bayesian networks to improve the agent’s performance with experience.
-## Prerequisites
+
+### Prerequisites
 This course requires knowledge of basic computer science, algorithms and complexity (CS180), and programming principles.
+### Textbook
+
+Stuart Russell and Peter Norvig. Artificial Intelligence: A Modern Approach. (3rd Edition), Pearson 2009.
+
+### Programming Language
+LISP
+
 ## Logistics
 <!--University of California, Los Angeles  -->
 - Time: **Tuesday and Thursday 2:00PM - 3:50PM**
@@ -23,6 +31,11 @@ This course requires knowledge of basic computer science, algorithms and complex
 - Course Forum: [https://piazza.com/ucla/winter2021/cs161/home](https://piazza.com/ucla/winter2021/cs161/home)
 (If you haven’t already, [sign up here](piazza.com/ucla/winter2021/cs161).)
 
+
+
+
+
+
 ## Grading Policy
  
 Grades will be computed based on the following factors:
@@ -36,7 +49,7 @@ Grades will be computed based on the following factors:
 
 | #  | Date  | Topics  |  Reading | Homework  |
 |---|---|---|---|---|
-| 1  | 1/5  |  [About Course](https://www.dropbox.com/s/6v49m2i9g6f18h3/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/un41l1tbcwryhcp/1-intro.pptx?dl=0) |  Chapter 1,2 |   |
+| 1  | 1/5  |  [About Course](https://www.dropbox.com/s/6v49m2i9g6f18h3/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/o9wft7ybkmhqgxr/Lecture1.pdf?dl=0) |  Chapter 1,2 |   |
 | 2 | 1/7 | [LISP](https://www.dropbox.com/s/i8zfup6vyg7slz9/Lecture02.pptx?dl=0) | | |
 | 3 | 1/12 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/u7pk97puanbk219/Lecture3.pdf?dl=0) | Chapter 3 | |
 | 4 | 1/14 | [Informed search strategies](https://www.dropbox.com/s/vksvsdc1t4b6s3q/Lecture4.pdf?dl=0) | Chapter 3 | HW1 Out |
@@ -63,8 +76,16 @@ Grades will be computed based on the following factors:
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
 
 ## Homework
-There will be about 6 homework assignments during the semester as we cover the corresponding material. Homework consists of both problem solving and LISP programming. The lowest homework score will be dropped for you.
+There will be 6 homework assignments during the semester as we cover the corresponding material. Homework consists of both problem solving and LISP programming. The lowest homework score will be dropped for you.
 
-Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including Internet websites. Students should never see another student's solution before submitting their own. Students cannot use old solution sets for this class or solution manual to the textbook under any circumstances.Homework assignments will be submitted through CCLE/Gradescope. 
+Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including Internet websites. Students should never see another student's solution before submitting their own. Students cannot use old solution sets for this class or solution manual to the textbook under any circumstances.Homework assignments will be submitted through CCLE. 
 
 Please submit your homework on time. Homework is worth full credit before the due date. It is worth zero credit after the due date.
+
+## Quiz
+
+There will be 6 in-class online quiz (on CCLE) for the purpose of reviewing the newly learned concepts. The quizzes are open textbook. We will drop the lowest quiz score for you.
+
+## Exams
+
+There will be one midterm and then final. The exam is online (on CCLE) and open book and note. You are not allowed to discuss with other people.
