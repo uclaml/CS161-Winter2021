@@ -6,7 +6,7 @@ This course requires knowledge of basic computer science, algorithms and complex
 ## Logistics
 <!--University of California, Los Angeles  -->
 - Time: **Tuesday and Thursday 2:00PM - 3:50PM**
-- Location: **Zoom**  
+- Location: **[Zoom Link]**  
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
 - Teaching Assistant: 
     - [Jinghui Chen](http://web.cs.ucla.edu/~jhchen/) (Email: jinghuic at ucla dot edu)
@@ -14,7 +14,7 @@ This course requires knowledge of basic computer science, algorithms and complex
     - Yue Wu (Email: wuy at cs dot ucla dot edu)
     
 - Office hours: 
-    - The instructor's office hour is Wednesday 2:00pm-3:00pm on Zoom. 
+    - The instructor's office hour is Wednesday 2:00pm-3:00pm on ([Zoom Link](https://ucla.zoom.us/j/95922207026?pwd=TmQ2THJoWVlENmhObVpUNWFJWDhhQT09)). 
     - The TA's office hour is: 
         - Jinghui Chen, Tuesday 4:00PM - 6:00PM ([Zoom Link](https://ucla.zoom.us/j/99792354291?pwd=TksxSU15Rm4xTzJ5OXg1MVpvdTJ4Zz09))
         - Shirley Chen, Wednesday 9:00PM - 11:00PM ([Zoom Link](https://ucla.zoom.us/j/91975431421?pwd=YlBsUXJldVZUSWVyTGZ6eFhBWDM2dz09))
@@ -36,7 +36,7 @@ Grades will be computed based on the following factors:
 
 | #  | Date  | Topics  |  Reading | Homework  |
 |---|---|---|---|---|
-| 1  | 1/5  |  [About Course](https://www.dropbox.com/s/narnejmu9t4lxzl/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/un41l1tbcwryhcp/1-intro.pptx?dl=0) |  Chapter 1,2 |   |
+| 1  | 1/5  |  [About Course](https://www.dropbox.com/s/6v49m2i9g6f18h3/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/un41l1tbcwryhcp/1-intro.pptx?dl=0) |  Chapter 1,2 |   |
 | 2 | 1/7 | [LISP](https://www.dropbox.com/s/i8zfup6vyg7slz9/Lecture02.pptx?dl=0) | | |
 | 3 | 1/12 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/u7pk97puanbk219/Lecture3.pdf?dl=0) | Chapter 3 | |
 | 4 | 1/14 | [Informed search strategies](https://www.dropbox.com/s/vksvsdc1t4b6s3q/Lecture4.pdf?dl=0) | Chapter 3 | HW1 Out |
