@@ -26,6 +26,7 @@ This course requires knowledge of basic computer science, algorithms and complex
 ## Grading Policy
  
 Grades will be computed based on the following factors:
+
 - Homework 20%
 - Quiz 5%
 - Midterm 35%
@@ -33,29 +34,28 @@ Grades will be computed based on the following factors:
 
 ## Schedule
 
-
-| # | Date | Topics | Reading | Homework |
-| - | ---- | ------ | ------- | -------- |
-| 1 | 1/5 | [About Course](https://www.dropbox.com/s/narnejmu9t4lxzl/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/un41l1tbcwryhcp/1-intro.pptx?dl=0) | Chapter 1,2 | |
+| #  | Date  | Topics  |  Reading | Homework  |
+|---|---|---|---|---|
+| 1  | 1/5  |  [About Course](https://www.dropbox.com/s/narnejmu9t4lxzl/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/un41l1tbcwryhcp/1-intro.pptx?dl=0) |  Chapter 1,2 |   |
 | 2 | 1/7 | [LISP](https://www.dropbox.com/s/i8zfup6vyg7slz9/Lecture02.pptx?dl=0) | | |
 | 3 | 1/12 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/u7pk97puanbk219/Lecture3.pdf?dl=0) | Chapter 3 | |
 | 4 | 1/14 | [Informed search strategies](https://www.dropbox.com/s/vksvsdc1t4b6s3q/Lecture4.pdf?dl=0) | Chapter 3 | HW1 Out |
-| | 1/19 | Martin Luther King, Jr. holiday | | |
-| 5 | 1/21 | [Informed search strategies](https://www.dropbox.com/s/vksvsdc1t4b6s3q/Lecture4.pdf?dl=0), [Local Search Algorithms](https://www.dropbox.com/s/6orvbrpv3bm6dtw/Lecture5.pdf?dl=0)| Chapter 3,4,11 | HW1 Due, HW2 Out |
-| 6 | 1/26 | [Local Search Algorithms](https://www.dropbox.com/s/6orvbrpv3bm6dtw/Lecture5.pdf?dl=0) | Chapter 4 | |
-| 7 | 1/28 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
-| 8 | 2/2 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out |
-| 9 | 2/4 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
-| 10 | 2/9 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | |
-| 11 | 2/11 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | HW3 Due, Hw4 Out |
-| | 2/16 | President's Day | | |
-| 12 | 2/18 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0) | Chapter 7 | |
-| | 2/24 | [Midterm Exam](https://www.dropbox.com/s/lhk376z72t6acfy/CS161%20Study%20Guide.docx?dl=0) | | |
-| 13 | 2/26 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0), [first order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0) | Chapter 7, 8 | HW5 Out |
-| 14 | 3/2 | [First-order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0), [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0) | Chapter 8, 9 | HW4 Due |
-| 15 | 3/4 | [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0), [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0) | Chapter 9, 13 | HW6 Out (on 3/8) |
-| 16 | 3/9 | [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0), Bayesian Networks | Chapter 13 | HW5 Due |
-| 17 | 3/11 | Bayesian Networks | Chapter 14 | |
+| 5 | 1/19 | [Informed search strategies](https://www.dropbox.com/s/vksvsdc1t4b6s3q/Lecture4.pdf?dl=0), [Local Search Algorithms](https://www.dropbox.com/s/6orvbrpv3bm6dtw/Lecture5.pdf?dl=0)| Chapter 3,4,11 | HW1 Due, HW2 Out |
+| 6 | 1/21 | [Local Search Algorithms](https://www.dropbox.com/s/6orvbrpv3bm6dtw/Lecture5.pdf?dl=0) | Chapter 4 | |
+| 7 | 1/26 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
+| 8 | 1/28 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out |
+| 9 | 2/2 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
+| 10 | 2/4 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | |
+| 11 | 2/9 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | HW3 Due, Hw4 Out |
+| 12 | 2/11 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0) | Chapter 7 | |
+|  | 2/16 | [Midterm Exam](https://www.dropbox.com/s/lhk376z72t6acfy/CS161%20Study%20Guide.docx?dl=0) | | |
+| 13 | 2/18 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0), [first order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0) | Chapter 7, 8 | HW5 Out |
+| 14 | 2/23 | [First-order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0), [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0) | Chapter 8, 9 | HW4 Due |
+| 15 | 2/25 | [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0), [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0) | Chapter 9, 13 | HW6 Out (on 3/8) |
+| 16 | 3/2 | [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0), Bayesian Networks | Chapter 13 | HW5 Due |
+| 17 | 3/4 | Bayesian Networks | Chapter 14 | |
+| 18 | 3/9 | TBD |  | |
+| 19 | 3/11 | TBD |  | |
 | | 3/16 |  | | HW6 Due |
 | | 3/20 | Final Exam | | |
 
