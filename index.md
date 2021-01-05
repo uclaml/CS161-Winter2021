@@ -54,8 +54,8 @@ Grades will be computed based on the following factors:
 | 15 | 2/25 | [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0), [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0) | Chapter 9, 13 | HW6 Out (on 3/8) |
 | 16 | 3/2 | [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0), Bayesian Networks | Chapter 13 | HW5 Due |
 | 17 | 3/4 | Bayesian Networks | Chapter 14 | |
-| 18 | 3/9 | TBD |  | |
-| 19 | 3/11 | TBD |  | |
+| 18 | 3/9 | Reinforcement Learning |  | |
+| 19 | 3/11 | Reinforcement Learning |  | |
 | | 3/16 |  | | HW6 Due |
 | | 3/20 | Final Exam | | |
 
