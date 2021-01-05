@@ -9,46 +9,47 @@ This course requires knowledge of basic computer science, algorithms and complex
 - Location: **Zoom**  
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
 - Teaching Assistant: 
+    - [Jinghui Chen](http://web.cs.ucla.edu/~jhchen/) (Email: jinghuic at cs dot ucla dot edu)
     - Shirley Chen (Email: shirleychen at cs dot ucla dot edu)
-    - [Yue Wu](http://web.cs.ucla.edu/~zccc/cs161.html) (Email: zccc at cs dot ucla dot edu)
-    - [Jinghui Chen](https://sites.google.com/view/wyw10804/home/win20cs161?authuser=0) (Email: wyw10804 at cs dot ucla dot edu)
+    - Yue Wu (Email: wuy at cs dot ucla dot edu)
+    
 - Office hours: 
-    - The instructor's office hour is Thursday 1:30pm-2:30pm at Engineering VI 282. 
+    - The instructor's office hour is Wednesday 2:00pm-3:00pm on Zoom. 
     - The TA's office hour is: 
-        - Yewen Wang, Monday 9:00am-11:00am at Bolter Hall 3256S-A
-        - Dongruo Zhou, Tuesday 15:00pm-17:00pm at Bolter Hall 3256S-A
-        - Shirley Chen, Wednesday 11:00am-1:00pm at Bolter Hall 3256S-B
-        - Chi Zhang, Thursday 9:00am-11:00am at Bolter Hall 3256S-A.
-- Course Website: [https://uclaml.github.io/CS161-Winter2020/](https://uclaml.github.io/CS161-Winter2020/)
-- Course Forum: [https://piazza.com/ucla/winter2020/cs161/home](https://piazza.com/ucla/winter2020/cs161/home)
-(If you haven’t already, [sign up here](piazza.com/ucla/winter2020/cs161).)
+        - Jinghui Chen, TBD on Zoom
+        - Shirley Chen, TBD on Zoom
+        - Yue Wu, TBD on Zoom
+- Course Website: [https://uclaml.github.io/CS161-Winter2021/](https://uclaml.github.io/CS161-Winter2021/)
+- Course Forum: [https://piazza.com/ucla/winter2021/cs161/home](https://piazza.com/ucla/winter2021/cs161/home)
+(If you haven’t already, [sign up here](piazza.com/ucla/winter2021/cs161).)
 
 ## Grading Policy
  
 Grades will be computed based on the following factors:
 - Homework 20%
+- Quiz 5%
 - Midterm 35%
-- Final 45%
+- Final 40%
 
 ## Schedule
 
 
 | # | Date | Topics | Reading | Homework |
 | - | ---- | ------ | ------- | -------- |
-| 1 | 1/6 | [About Course](https://www.dropbox.com/s/narnejmu9t4lxzl/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/un41l1tbcwryhcp/1-intro.pptx?dl=0) | Chapter 1,2 | |
-| 2 | 1/8 | [LISP](https://www.dropbox.com/s/i8zfup6vyg7slz9/Lecture02.pptx?dl=0) | | |
-| 3 | 1/13 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/u7pk97puanbk219/Lecture3.pdf?dl=0) | Chapter 3 | |
-| 4 | 1/15 | [Informed search strategies](https://www.dropbox.com/s/vksvsdc1t4b6s3q/Lecture4.pdf?dl=0) | Chapter 3 | HW1 Out |
-| | 1/20 | Martin Luther King, Jr. holiday | | |
-| 5 | 1/22 | [Informed search strategies](https://www.dropbox.com/s/vksvsdc1t4b6s3q/Lecture4.pdf?dl=0), [Local Search Algorithms](https://www.dropbox.com/s/6orvbrpv3bm6dtw/Lecture5.pdf?dl=0)| Chapter 3,4,11 | HW1 Due, HW2 Out |
-| 6 | 1/27 | [Local Search Algorithms](https://www.dropbox.com/s/6orvbrpv3bm6dtw/Lecture5.pdf?dl=0) | Chapter 4 | |
-| 7 | 1/29 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
-| 8 | 2/3 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out |
-| 9 | 2/5 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
-| 10 | 2/10 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | |
-| 11 | 2/12 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | HW3 Due, Hw4 Out |
-| | 2/17 | President's Day | | |
-| 12 | 2/19 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0) | Chapter 7 | |
+| 1 | 1/5 | [About Course](https://www.dropbox.com/s/narnejmu9t4lxzl/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/un41l1tbcwryhcp/1-intro.pptx?dl=0) | Chapter 1,2 | |
+| 2 | 1/7 | [LISP](https://www.dropbox.com/s/i8zfup6vyg7slz9/Lecture02.pptx?dl=0) | | |
+| 3 | 1/12 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/u7pk97puanbk219/Lecture3.pdf?dl=0) | Chapter 3 | |
+| 4 | 1/14 | [Informed search strategies](https://www.dropbox.com/s/vksvsdc1t4b6s3q/Lecture4.pdf?dl=0) | Chapter 3 | HW1 Out |
+| | 1/19 | Martin Luther King, Jr. holiday | | |
+| 5 | 1/21 | [Informed search strategies](https://www.dropbox.com/s/vksvsdc1t4b6s3q/Lecture4.pdf?dl=0), [Local Search Algorithms](https://www.dropbox.com/s/6orvbrpv3bm6dtw/Lecture5.pdf?dl=0)| Chapter 3,4,11 | HW1 Due, HW2 Out |
+| 6 | 1/26 | [Local Search Algorithms](https://www.dropbox.com/s/6orvbrpv3bm6dtw/Lecture5.pdf?dl=0) | Chapter 4 | |
+| 7 | 1/28 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
+| 8 | 2/2 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out |
+| 9 | 2/4 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
+| 10 | 2/9 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | |
+| 11 | 2/11 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | HW3 Due, Hw4 Out |
+| | 2/16 | President's Day | | |
+| 12 | 2/18 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0) | Chapter 7 | |
 | | 2/24 | [Midterm Exam](https://www.dropbox.com/s/lhk376z72t6acfy/CS161%20Study%20Guide.docx?dl=0) | | |
 | 13 | 2/26 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0), [first order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0) | Chapter 7, 8 | HW5 Out |
 | 14 | 3/2 | [First-order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0), [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0) | Chapter 8, 9 | HW4 Due |
