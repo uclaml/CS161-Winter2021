@@ -18,7 +18,7 @@ This course requires knowledge of basic computer science, algorithms and complex
     - The TA's office hour is: 
         - Jinghui Chen, TBD on Zoom
         - Shirley Chen, TBD on Zoom
-        - Yue Wu, TBD on Zoom
+        - Yue Wu, Thursday 4:00PM - 6:00PM [Zoom](https://ucla.zoom.us/j/97555631173?pwd=L3dqYUppamdQK3huZGF6Nzh1L0E5UT09)
 - Course Website: [https://uclaml.github.io/CS161-Winter2021/](https://uclaml.github.io/CS161-Winter2021/)
 - Course Forum: [https://piazza.com/ucla/winter2021/cs161/home](https://piazza.com/ucla/winter2021/cs161/home)
 (If you haven’t already, [sign up here](piazza.com/ucla/winter2021/cs161).)
