@@ -5,8 +5,8 @@ This course introduces the design of intelligent agents, including the fundament
 This course requires knowledge of basic computer science, algorithms and complexity (CS180), and programming principles.
 ## Logistics
 <!--University of California, Los Angeles  -->
-- Time: **Monday and Wednesday 4:00PM - 5:50PM**
-- Location: **FRANZ 1178**  
+- Time: **Tuesday and Thursday 2:00PM - 3:50PM**
+- Location: **Zoom**  
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
 - Teaching Assistant: 
     - Shirley Chen (Email: shirleychen at cs dot ucla dot edu)
