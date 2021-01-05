@@ -16,7 +16,7 @@ This course requires knowledge of basic computer science, algorithms and complex
 - Office hours: 
     - The instructor's office hour is Wednesday 2:00pm-3:00pm on Zoom. 
     - The TA's office hour is: 
-        - Jinghui Chen, Tuessday 4:00PM - 6:00PM ([Zoom Link](https://ucla.zoom.us/j/8693598668))
+        - Jinghui Chen, Tuesday 4:00PM - 6:00PM ([Zoom Link](https://ucla.zoom.us/j/8693598668))
         - Shirley Chen, Wednesday 9:00PM - 11:00PM ([Zoom Link](https://ucla.zoom.us/j/91975431421?pwd=YlBsUXJldVZUSWVyTGZ6eFhBWDM2dz09))
         - Yue Wu, Thursday 4:00PM - 6:00PM ([Zoom Link](https://ucla.zoom.us/j/97555631173?pwd=L3dqYUppamdQK3huZGF6Nzh1L0E5UT09))
 - Course Website: [https://uclaml.github.io/CS161-Winter2021/](https://uclaml.github.io/CS161-Winter2021/)
