@@ -68,8 +68,8 @@ Grades will be computed based on the following factors:
 | 16 | 3/2 | [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0), Bayesian Networks | Chapter 13 |  |
 | 17 | 3/4 | Bayesian Networks | Chapter 14 | HW5 Due, HW6 Out |
 | 18 | 3/9 | Reinforcement Learning |  | |
-| 19 | 3/11 | Reinforcement Learning |  | HW6 Due |
-| | 3/16 | Final Exam | |  |
+| 19 | 3/11 | Reinforcement Learning |  |  |
+| | 3/16 | Final Exam | | HW6 Due |
 
 ## Academic Integrity Policy
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
