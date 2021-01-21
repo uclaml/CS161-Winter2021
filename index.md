@@ -51,10 +51,10 @@ Grades will be computed based on the following factors:
 |---|---|---|---|---|
 | 1  | 1/5  |  [About Course](https://www.dropbox.com/s/6v49m2i9g6f18h3/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/o9wft7ybkmhqgxr/Lecture1.pdf?dl=0) |  Chapter 1,2 |   |
 | 2 | 1/7 | [LISP](https://www.dropbox.com/s/9rqb830n8gr84tt/Lecture2.pdf?dl=0) | | |
-| 3 | 1/12 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/nc42dczi2hk3tnm/Lecture3.pdf?dl=0) | Chapter 3 | |
+| 3 | 1/12 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/lwwxo28aee5bshv/Lecture3.pdf?dl=0) | Chapter 3 | |
 | 4 | 1/14 | [Uninformed search strategies](https://www.dropbox.com/s/lwwxo28aee5bshv/Lecture3.pdf?dl=0) | Chapter 3 | HW1 Out |
-| 5 | 1/19 | [Informed search strategies](https://www.dropbox.com/s/0xqwq47iv0oo0on/Lecture4.pdf?dl=0)| Chapter 3,4,11 |  |
-| 6 | 1/21 | [Local Search Algorithms](https://www.dropbox.com/s/6orvbrpv3bm6dtw/Lecture5.pdf?dl=0) | Chapter 4 | HW1 Due, HW2 Out|
+| 5 | 1/19 | [Informed search strategies](https://www.dropbox.com/s/dvqksgu4ozo2pcc/lecture4.pdf?dl=0)| Chapter 3,4,11 |  |
+| 6 | 1/21 | [Local Search Algorithms](https://www.dropbox.com/s/irybdjzo0tg29ac/lecture5.pdf?dl=0) | Chapter 4 | HW1 Due, HW2 Out|
 | 7 | 1/26 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
 | 8 | 1/28 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out|
 | 9 | 2/2 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
