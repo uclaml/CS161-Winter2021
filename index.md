@@ -55,9 +55,9 @@ Grades will be computed based on the following factors:
 | 4 | 1/14 | [Uninformed search strategies](https://www.dropbox.com/s/lwwxo28aee5bshv/Lecture3.pdf?dl=0) | Chapter 3 | HW1 Out |
 | 5 | 1/19 | [Informed search strategies](https://www.dropbox.com/s/dvqksgu4ozo2pcc/lecture4.pdf?dl=0)| Chapter 3,4,11 |  |
 | 6 | 1/21 | [Local Search Algorithms](https://www.dropbox.com/s/irybdjzo0tg29ac/lecture5.pdf?dl=0) | Chapter 4 | HW1 Due, HW2 Out|
-| 7 | 1/26 | [Constraint satisfaction](https://www.dropbox.com/s/a5n216pmrtdhsaw/Lecture6.pdf?dl=0) | Chapter 6 | |
-| 8 | 1/28 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out|
-| 9 | 2/2 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
+| 7 | 1/26 | [Constraint satisfaction](https://www.dropbox.com/s/kl3ynj8fnqe0v19/lecture6.pdf?dl=0) | Chapter 6 | |
+| 8 | 1/28 | [Constraint satisfaction](https://www.dropbox.com/s/kl3ynj8fnqe0v19/lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out|
+| 9 | 2/2 | [Constraint satisfaction](https://www.dropbox.com/s/kl3ynj8fnqe0v19/lecture6.pdf?dl=0) | Chapter 6 | |
 | 10 | 2/4 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 |  |
 | 11 | 2/9 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | HW3 Due, Hw4 Out |
 | 12 | 2/11 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0) | Chapter 7 | |
