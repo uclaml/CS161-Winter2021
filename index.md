@@ -59,7 +59,7 @@ Grades will be computed based on the following factors:
 | 8 | 1/28 | [Constraint satisfaction](https://www.dropbox.com/s/kl3ynj8fnqe0v19/lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out|
 | 9 | 2/2 | [Constraint satisfaction](https://www.dropbox.com/s/kl3ynj8fnqe0v19/lecture6.pdf?dl=0) | Chapter 6 | |
 | 10 | 2/4 | [Constraint satisfaction](https://www.dropbox.com/s/kl3ynj8fnqe0v19/lecture6.pdf?dl=0) | Chapter 5 |  |
-| 11 | 2/9 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | HW3 Due, Hw4 Out |
+| 11 | 2/9 | [Game playing](https://www.dropbox.com/s/iwm7wz5gf47s5hx/Lecture7.pdf?dl=0) | Chapter 5 | HW3 Due, Hw4 Out |
 | 12 | 2/11 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0) | Chapter 7 | |
 |  | 2/16 | [Midterm Exam](https://www.dropbox.com/s/lhk376z72t6acfy/CS161%20Study%20Guide.docx?dl=0) | | |
 | 13 | 2/18 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0), [first order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0) | Chapter 7, 8 | HW4 Due, HW5 Out |
