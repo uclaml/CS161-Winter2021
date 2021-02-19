@@ -62,14 +62,14 @@ Grades will be computed based on the following factors:
 | 11 | 2/9 | [Game playing](https://www.dropbox.com/s/iwm7wz5gf47s5hx/Lecture7.pdf?dl=0) | Chapter 5 | HW3 Due, Hw4 Out |
 | 12 | 2/11 | [Game playing](https://www.dropbox.com/s/iwm7wz5gf47s5hx/Lecture7.pdf?dl=0) | Chapter 7 | |
 |  | 2/16 | [Midterm Exam](https://www.dropbox.com/s/lhk376z72t6acfy/CS161%20Study%20Guide.docx?dl=0) | | |
-| 13 | 2/18 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 | HW4 Due (extended), HW5 Out |
-| 14 | 2/23 | [First-order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0), [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0) | Chapter 8, 9 |  |
+| 13 | 2/18 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 |  |
+| 14 | 2/23 | [First-order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0), [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0) | Chapter 8, 9 | HW4 Due (extended), HW5 Out |
 | 15 | 2/25 | [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0), [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0) | Chapter 9, 13 |  |
-| 16 | 3/2 | [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0), Bayesian Networks | Chapter 13 | HW5 Due, HW6 Out |
-| 17 | 3/4 | Bayesian Networks | Chapter 14 |  |
+| 16 | 3/2 | [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0), Bayesian Networks | Chapter 13 | |
+| 17 | 3/4 | Bayesian Networks | Chapter 14 | HW5 Due, HW6 Out  |
 | 18 | 3/9 | Reinforcement Learning |  | |
-| 19 | 3/11 | Reinforcement Learning |  | HW6 Due |
-| | 3/16 | Final Exam | |  |
+| 19 | 3/11 | Reinforcement Learning |  |  |
+| | 3/16 | Final Exam | | HW6 Due |
 
 ## Academic Integrity Policy
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
