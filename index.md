@@ -53,24 +53,23 @@ Grades will be computed based on the following factors:
 | 2 | 1/7 | [LISP](https://www.dropbox.com/s/9rqb830n8gr84tt/Lecture2.pdf?dl=0) | | |
 | 3 | 1/12 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/lwwxo28aee5bshv/Lecture3.pdf?dl=0) | Chapter 3 | |
 | 4 | 1/14 | [Uninformed search strategies](https://www.dropbox.com/s/lwwxo28aee5bshv/Lecture3.pdf?dl=0) | Chapter 3 | HW1 Out |
-| 5 | 1/19 | [Informed search strategies](https://www.dropbox.com/s/dvqksgu4ozo2pcc/lecture4.pdf?dl=0)| Chapter 3,4,11 |  |
+| 5 | 1/19 | [Informed search strategies](https://www.dropbox.com/s/dvqksgu4ozo2pcc/lecture4.pdf?dl=0)| Chapter 3 |  |
 | 6 | 1/21 | [Local Search Algorithms](https://www.dropbox.com/s/irybdjzo0tg29ac/lecture5.pdf?dl=0) | Chapter 4 | HW1 Due, HW2 Out|
-| 7 | 1/26 | [Local Search Algorithms](https://www.dropbox.com/s/irybdjzo0tg29ac/lecture5.pdf?dl=0) | Chapter 6 | |
+| 7 | 1/26 | [Local Search Algorithms](https://www.dropbox.com/s/irybdjzo0tg29ac/lecture5.pdf?dl=0) | Chapter 4 | |
 | 8 | 1/28 | [Constraint satisfaction](https://www.dropbox.com/s/kl3ynj8fnqe0v19/lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out|
 | 9 | 2/2 | [Constraint satisfaction](https://www.dropbox.com/s/kl3ynj8fnqe0v19/lecture6.pdf?dl=0) | Chapter 6 | |
-| 10 | 2/4 | [Constraint satisfaction](https://www.dropbox.com/s/kl3ynj8fnqe0v19/lecture6.pdf?dl=0) | Chapter 5 |  |
+| 10 | 2/4 | [Constraint satisfaction](https://www.dropbox.com/s/kl3ynj8fnqe0v19/lecture6.pdf?dl=0) | Chapter 6 |  |
 | 11 | 2/9 | [Game playing](https://www.dropbox.com/s/iwm7wz5gf47s5hx/Lecture7.pdf?dl=0) | Chapter 5 | HW3 Due, Hw4 Out |
-| 12 | 2/11 | [Game playing](https://www.dropbox.com/s/iwm7wz5gf47s5hx/Lecture7.pdf?dl=0) | Chapter 7 | |
+| 12 | 2/11 | [Game playing](https://www.dropbox.com/s/iwm7wz5gf47s5hx/Lecture7.pdf?dl=0) | Chapter 5 | |
 |  | 2/16 | [Midterm Exam](https://www.dropbox.com/s/lhk376z72t6acfy/CS161%20Study%20Guide.docx?dl=0) | | |
-| 13 | 2/18 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 |  |
-| 14 | 2/23 | [First-order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0), [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0) | Chapter 8, 9 | HW4 Due (extended), HW5 Out |
-| 15 | 2/25 | [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0), [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0) | Chapter 9, 13 |  |
-| 16 | 3/2 | [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0), Bayesian Networks | Chapter 13 | HW5 Due |
-| 17 | 3/4 | Bayesian Networks | Chapter 14 |  |
-| 18 | 3/9 | Reinforcement Learning |  | HW6 Out|
-| 19 | 3/11 | Reinforcement Learning |  |   |
-| | 3/16 | Final Exam | | |
-| | 3/18|  | |HW6 Due |
+| 13 | 2/18 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 | HW4 Due (extended), HW5 Out |
+| 14 | 2/23 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 |  |
+| 15 | 2/25 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 |  |
+| 16 | 3/2 | [First-order logic: representation](https://www.dropbox.com/s/6u5lstdnwo8131a/Lecture9.pdf?dl=0) | Chapter 8 | HW5 Due, HW6 Out |
+| 17 | 3/4 | [First-order logic: inference](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0) | Chapter 9 |  |
+| 18 | 3/9 | [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0) | Chapter 13 | |
+| 19 | 3/11 | [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0) | Chapter 13 | HW6 Due |
+|  | 3/16 | Final Exam | |  |
 
 ## Academic Integrity Policy
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
