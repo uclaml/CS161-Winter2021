@@ -65,9 +65,9 @@ Grades will be computed based on the following factors:
 | 13 | 2/18 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 | HW4 Due (extended), HW5 Out |
 | 14 | 2/23 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 |  |
 | 15 | 2/25 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 |  |
-| 16 | 3/2 | [First-order logic: representation](https://www.dropbox.com/s/6u5lstdnwo8131a/Lecture9.pdf?dl=0) | Chapter 8 | HW5 Due|
-| 17 | 3/4 | [First-order logic: inference](https://www.dropbox.com/s/dl6e1znasozaskd/Lecture10.pdf?dl=0) | Chapter 9 |  |
-| 18 | 3/9 | [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0) | Chapter 13 | HW6 Out  |
+| 16 | 3/2 | [First-order logic: representation](https://www.dropbox.com/s/7g5o5vfof4jd1e4/Lecture9.pdf?dl=0) | Chapter 8 | HW5 Due|
+| 17 | 3/4 | [First-order logic: inference](https://www.dropbox.com/s/ihnmk8u1mvjqr4o/Lecture10.pdf?dl=0) | Chapter 9 |  |
+| 18 | 3/9 | [Reasoning under uncertainty](https://www.dropbox.com/s/hzzek0gz6vtoqs5/Lecture11.pdf?dl=0) | Chapter 13 | HW6 Out  |
 | 19 | 3/11 | [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0) | Chapter 13 | |
 |  | 3/16 | Final Exam | |  |
 |  | 3/18 | | |  HW6 Due |
